@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi, I'm Burhan Aliskan 🙋🏽‍♂️
 
 -  👨🏽‍💻 I'm an **iOS Developer**
